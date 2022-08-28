@@ -1,10 +1,14 @@
 <resources>
-    <string name="app_name">PassGeneratorLord</string>
+    <string name="app_name">Calories Squat</string>
     <string name="loading">Loading...</string>
     <string name="here_will_be_your_pass">here will be your password...\n Just press GENERATE</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="generate">generate</string>
+    <string name="settings_text">settings</string>
+    <string name="text_about">Create strong passwords with keywords from your favorite movie to protect your accounts.</string>
+    <string name="music">music</string>
+    <string name="text_activity_good">The benefits of squats are conditional if they are performed incorrectly. It is especially necessary to monitor the posture during this exercise, the incorrect position of the spine can lead to injury. And you can’t do squats with a load (with weight) without the supervision of a coach or a powerlifting or bodybuilding professional! To maximize the benefits of squats, you must perform this exercise correctly. The back should be straight, slightly tilted forward. When squatting, keep your feet shoulder-width apart, this will protect you from falling and losing coordination.</string>
 
     <string-array name="diff_levels">
         <item>SIMPLE</item>
