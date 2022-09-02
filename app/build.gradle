@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.caloriescalulatorart.caloriessquat"
+        applicationId "com.caloriescalulatorartfo.caloriesfootaball"
         minSdk 26
         targetSdk 32
         versionCode 1

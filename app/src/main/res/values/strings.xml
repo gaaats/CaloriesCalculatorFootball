@@ -1,14 +1,17 @@
 <resources>
-    <string name="app_name">Calories Squat</string>
+    <string name="app_name">Soccer Butterfly Advance</string>
     <string name="loading">Loading...</string>
     <string name="here_will_be_your_pass">here will be your password...\n Just press GENERATE</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="generate">generate</string>
     <string name="settings_text">settings</string>
-    <string name="text_about">Create strong passwords with keywords from your favorite movie to protect your accounts.</string>
     <string name="music">music</string>
-    <string name="text_activity_good">The benefits of squats are conditional if they are performed incorrectly. It is especially necessary to monitor the posture during this exercise, the incorrect position of the spine can lead to injury. And you can’t do squats with a load (with weight) without the supervision of a coach or a powerlifting or bodybuilding professional! To maximize the benefits of squats, you must perform this exercise correctly. The back should be straight, slightly tilted forward. When squatting, keep your feet shoulder-width apart, this will protect you from falling and losing coordination.</string>
+    <string name="text_activity_good">Football fever has got me thinking about the health benefits of playing the beautiful game. The complexity of training undertaken by a footballer means that they not only utilise their aerobic system, but their anaerobic system during a game too.
+
+Aerobic exercise is when the oxygen you breathe is carried to your muscles via your lungs, and heart - to give them the energy they need to perform the activity. Aerobic exercise is therefore associated with lower intensity activity.
+
+However, when the activity is performed at high intensities, the anaerobic system becomes the predominant energy system. This is because your anaerobic system can produce energy much more rapidly.</string>
 
     <string-array name="diff_levels">
         <item>SIMPLE</item>
